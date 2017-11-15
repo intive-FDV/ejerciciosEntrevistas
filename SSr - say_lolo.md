@@ -9,3 +9,4 @@ let decirNombre = perro.decirNombre
 decirNombre()
 ```
 This print prints something different from "lolo". Why?
+How can you fix it?

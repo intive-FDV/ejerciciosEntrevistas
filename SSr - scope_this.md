@@ -17,4 +17,6 @@ var prueba = objeto.propiedad.getNombreCompleto;
 console.log(prueba());
 ```
 
-Explain the difference between outputs
+Explain the difference between outputs.
+How can you print 'Carl Tomato' when you execute ```prueba()```?
+And 'Jhon Papa'?

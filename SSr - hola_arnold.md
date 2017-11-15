@@ -9,3 +9,5 @@ function salute (persona) {
 salute({ nombre: 'Silvester' })
 ```
 Why this code prints "hola Arnold"?
+How can you fix it?
+how can you 'clean/update/improve' the code?
