@@ -1,16 +1,14 @@
-* Diferencia entre `link` y `import`
+* Diferencia entre `link` e `import` en `CSS/HTML`
         
 * la Diferencia entre `sessionStorage` y `localStorage` y `Cookies`
        
-* cuales son los display Properties comunes
+* cuales son los `display` Properties comunes en `CSS`
          	             
-* crear un triangulo con puro `css` y `html`
+* crear un triangulo solamente con `css` y `html`
 
-* realizar algoritmo para ORDERNAR con JavaScript con `ES5`;
+* realizar algoritmo para `ORDERNAR` un array de numeros con JavaScript con `ES5`;
 
-* Javascript herencia ( tambien puede ser con `prototype`, `apply` y `call`)
-
-* Haga que los arrays tengan una funcion `ordenar` que ordene los elemtos de un array numerico, agrupando los pares y los impares.
+* Haga que los arrays tengan una funcion `ordenar` que ordene los elementos de un array numerico, agrupando los pares y los impares.
 
 * Javascript: diferentes formas de crear un objeto y cuales son esas diferencias
 
@@ -18,11 +16,11 @@
 
 * Como crear, inserta, copiar, eliminar y reemplazar un elemento del `DOM` 
 
-* Agregar un `event listener` a un `DOM`
+* Agregar un `event listener` a un elemento del `DOM`
 
 * Explique que es y para que sirve `closure` en JS
 
-* La diferencia entre `let` y `var`
+* La diferencia entre `let`, `const` y `var` en ES6
 
 * Explica la diferencia entre `offsetWidth`/`offsetHeight`,  `clientWidth`/`clientHeight`  y  `scrollWidth`/`scrollHeight`
 
