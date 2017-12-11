@@ -1,0 +1,4 @@
+- Definir Scope de una funcion
+- Cuales son los tipos primitivos en JS
+- Nuevas cosas de ES6
+- diferencia entre let, var y const
